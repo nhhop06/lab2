@@ -1,4 +1,6 @@
 //Khai báo biến
+
+// em chưa hiểu lắm nên em xin lần sau nộp ạ 
 var fullName = "Ngô Hữu Hợp made this website";
 var age = "Bật console dể tán gái =))))" ;
 
